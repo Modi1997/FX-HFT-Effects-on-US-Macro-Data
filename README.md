@@ -25,3 +25,5 @@ To run this notebook successfully, ensure you install the following Python packa
 pip install polygon-api-client
 pip install arch
 pip install tensorflow
+
+Once the above have been installed, then restart the kernel and run all code snippets. 
