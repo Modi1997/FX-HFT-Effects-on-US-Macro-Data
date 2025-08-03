@@ -13,9 +13,10 @@ The project is organized as follows (see Table of Contents in the notebook):
 2. Macro Data Preprocessing and Analysis
 3. Event-Centric Data Merging
 4. Volatility Analysis and Event Impact Study
-5. Prediction Algorithms: GARCH and LSTM
-6. Evaluation and KPIs
-7. Forecasting and Results Visualization
+5. Price Bounds: MC Simulation For The Event Minute
+6. Prediction Algorithms: GARCH and LSTM
+7. Evaluation and KPIs
+8. Forecasting and Results Visualization
 
 Installation Instructions:
 --------------------------
