@@ -1,31 +1,7 @@
-Project Title:
----------------
-Short-Term Effects and Forecasting on the FX Market in Response to US Macroeconomic Data Releases
+# FX-HFT-Effects-on-US-Macro-Data
 
-Project Description:
---------------------
-This project explores the short-term impact of major US macroeconomic events on the foreign exchange (FX) market. It involves data collection, event-centric analysis, statistical and AI-based prediction models (GARCH and LSTM), as well as performance evaluations through KPIs and Monte Carlo bounds. The analysis identifies key macroeconomic drivers of volatility and forecasts FX reactions to these events.
-
-Project Structure:
-------------------
-The project is organized as follows (see Table of Contents in the notebook):
-1. Libraries and Functions
-2. Macro Data Preprocessing and Analysis
-3. Event-Centric Data Merging
-4. Volatility Analysis and Event Impact Study
-5. Price Bounds: MC Simulation For The Event Minute
-6. Prediction Algorithms: GARCH and LSTM
-7. Evaluation and KPIs
-8. Forecasting and Results Visualization
-
-Installation Instructions:
---------------------------
-To run this notebook successfully, ensure you install the following Python packages:
-
-```bash
-pip install polygon-api-client
-pip install arch
-pip install tensorflow
-```
-
-Once the above have been installed, then restart the kernel and run all code snippets. 
+## Make sure you pip install the commands below before running the program. Steps to follow:
+1. Uncomment the cells below
+2. Run the cells below
+3. Once all are successfully installed, restart the kernel
+4. Run all code snippets
